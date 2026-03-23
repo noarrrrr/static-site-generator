@@ -14,8 +14,13 @@ class TestSplitDelimiter(unittest.TestCase):
     TextNode(" word", TextType.TEXT),])
     
     def test_bold_block(self):
-        node = TextNode("This is text with a **bold block** word", TextType.BOLD)
+        node = TextNode("This is text with a **bold block** word", TextType.TEXT)
         new_nodes = split_nodes_delimiter([node], "**", TextType.BOLD)
         self.assertEqual(new_nodes, [TextNode("This is text with a ", TextType.TEXT),
     TextNode("bold block", TextType.BOLD),
     TextNode(" word", TextType.TEXT),])
+        
+    def test_node_without_delimiter(self):
+        node = TextNode("This is text with no delimiter", TextType.TEXT)
+        new_nodes = split_nodes_delimiter([node], "`", TextType.CODE)
+        self.assertEqual(new_nodes, [TextNode("This is text with no delimiter", TextType.TEXT)])
