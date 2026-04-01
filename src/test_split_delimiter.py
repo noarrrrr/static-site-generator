@@ -1,7 +1,6 @@
 import unittest
 
-from textnode import TextNode, TextType, textnode_to_htmlnode
-from htmlnode import HTMLNode, ParentNode, LeafNode
+from textnode import TextNode, TextType
 from split_delimiter import split_nodes_delimiter
 
 

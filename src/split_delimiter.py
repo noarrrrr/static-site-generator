@@ -1,5 +1,4 @@
-from textnode import TextNode, TextType, textnode_to_htmlnode
-from htmlnode import HTMLNode, ParentNode, LeafNode
+from textnode import TextNode, TextType
 
 def split_nodes_delimiter(old_nodes, delimiter, text_type):
     result = []
