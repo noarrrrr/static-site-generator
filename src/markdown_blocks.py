@@ -29,3 +29,17 @@ def block_to_block_type(block):
     if block.startswith("1."):
         return BlockType.ORDERED_LIST
     return BlockType.PARAGRAPH
+
+def extract_title(md):
+    blocks = markdown_to_blocks(md)
+    for block in blocks:
+        if block_to_block_type(block) == BlockType.HEADING:
+            header_count = 0
+            for char in block:
+                if char == "#":
+                    header_count += 1
+                else:
+                    break
+            if header_count == 1:
+                return block.split("#", 1)[1].strip()
+    raise Exception("No Title Found")
