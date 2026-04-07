@@ -1,23 +1,25 @@
-# The Official Evan Steenson Fanclub
+# The Anti-Alyssa Alyssa Club
 
-![Evan looking sexy](/images/sexy.jpg)
+![oop](/images/oop.jpg)
 
-Here's the deal, **Evan Rocks**.
+So Alyssa is kinda **weird as fuck**.
 
-> "Evan is literally the coolest."
->
-> -- Everyone
+>"I can piss in my mouth. Wanna watch??"
+> -- Alyssa 2022
 
-![you wish this was you](/images/speedwacer.jpg)
+![freak](/images/gangshi.jpg)
 
-## Reasons to like Evan
+## Reasons to stay away
 
-- Just look at him
-- Bestest hugger 
-- Has a pet rat
-- Funny as hell
-- Overall a chill guy
+- Dogs always out
+- Wanted in 36 states
+- Will call you a slur
+- Probably a skin-walker
+- Just look at her
 
-![too much swag](/images/swag.jpg)
+>"You can be my emotional pocket pussy"
+> -- Alyssa 2023
 
-Need some Evan in your life? [Contact him here](https://www.youtube.com/watch?v=dQw4w9WgXcQ).
+![gluttony](/images/glotton.jpg)
+
+Wanna block her? [Here's her number](https://youtu.be/ny6cHBBeNpI?si=n3qnMdDNXs87nO4).
